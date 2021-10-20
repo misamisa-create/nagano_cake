@@ -1,3 +1,6 @@
+![nagano_cake](https://user-images.githubusercontent.com/83994010/138035862-e2d4128c-c620-4dba-a226-1acbf09618f2.jpeg)
+
+
 ER図表  
 https://drive.google.com/file/d/1eCC5p7HHCkqnWdUhp9xdOSPWEkz0d4wM/view?usp=sharing  
 アプリケーション詳細設計のURL  
