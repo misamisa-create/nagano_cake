@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1N2_gc0BUmComCxo0tiIlowK0EzGAcyrykCpXTs1o
 ## 機能面  
 ☆が私が担当した箇所になっております。
 
-###顧客側  
+### 顧客側  
 ログイン/ログアウト    
 顧客登録/退会機能   
 顧客情報and編集機能  
@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1N2_gc0BUmComCxo0tiIlowK0EzGAcyrykCpXTs1o
 注文履歴一覧  
 詳細表示機能  
   
-###管理側  
+### 管理側  
 ログイン/ログアウト機能  
 注文履歴の一覧  
 顧客の注文一覧画面  
